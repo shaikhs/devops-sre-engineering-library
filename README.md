@@ -48,33 +48,33 @@ Start with Netcat, Nmap scripting, Apache security, ModSecurity, Kali, Linux har
 
 ## 1. Linux, Unix, Bash, and Shell Scripting
 
-- `02-adv-bash_new.pdf`
-- `02shell-tutorial.pdf`
-- `12shell-scripting.pdf`
-- `1Linux Shell Scripting Tutorial v2.0.pdf`
-- `1Linux Shell Scripting with Bash.pdf`
-- `1bash_cookbook.pdf`
-- `1linux_shell_scripting_cookbook.pdf`
-- `1shell_scripting.pdf`
-- `2pro_bash_programming.pdf`
-- `Beginning_shell_scripting_pro_bash 1_new.pdf`
-- `Expert Shell Scripting.pdf`
-- `Learning Linux Shell Scripting.pdf`
-- `Linux Performance and Tuning Guidelines.pdf`
-- `Linux Shell Scripting Cookbook, 2nd Edition.pdf`
-- `Linux Shell Scripting Essentials [eBook].pdf`
-- `LinuxTraining.pdf`
-- `Mastering Linux.pdf`
-- `Mastering Unix Shell Scripting.pdf`
-- `Mastering Unix Shell Scripting, 2nd Edition.pdf`
+- [02-adv-bash_new.pdf](<02-adv-bash_new.pdf>)
+- [02shell-tutorial.pdf](<02shell-tutorial.pdf>)
+- [12shell-scripting.pdf](<12shell-scripting.pdf>)
+- [1Linux Shell Scripting Tutorial v2.0.pdf](<1Linux Shell Scripting Tutorial v2.0.pdf>)
+- [1Linux Shell Scripting with Bash.pdf](<1Linux Shell Scripting with Bash.pdf>)
+- [1bash_cookbook.pdf](<1bash_cookbook.pdf>)
+- [1linux_shell_scripting_cookbook.pdf](<1linux_shell_scripting_cookbook.pdf>)
+- [1shell_scripting.pdf](<1shell_scripting.pdf>)
+- [2pro_bash_programming.pdf](<2pro_bash_programming.pdf>)
+- [Beginning_shell_scripting_pro_bash 1_new.pdf](<Beginning_shell_scripting_pro_bash 1_new.pdf>)
+- [Expert Shell Scripting.pdf](<Expert Shell Scripting.pdf>)
+- [Learning Linux Shell Scripting.pdf](<Learning Linux Shell Scripting.pdf>)
+- [Linux Performance and Tuning Guidelines.pdf](<Linux Performance and Tuning Guidelines.pdf>)
+- [Linux Shell Scripting Cookbook, 2nd Edition.pdf](<Linux Shell Scripting Cookbook, 2nd Edition.pdf>)
+- [Linux Shell Scripting Essentials [eBook].pdf](<Linux Shell Scripting Essentials [eBook].pdf>)
+- [LinuxTraining.pdf](<LinuxTraining.pdf>)
+- [Mastering Linux.pdf](<Mastering Linux.pdf>)
+- [Mastering Unix Shell Scripting.pdf](<Mastering Unix Shell Scripting.pdf>)
+- [Mastering Unix Shell Scripting, 2nd Edition.pdf](<Mastering Unix Shell Scripting, 2nd Edition.pdf>)
 
 This is the strongest concentration in the library. It supports Linux administration, command-line automation, Bash programming, performance analysis, and operational scripting.
 
 ## 2. Apache, Tomcat, Nginx, WebLogic, and Web Servers
 
-- `Apache Cookbook, 2nd Edition.pdf`
-- `Apache Security - Ivan Ristic - Oreilly - 2005.pdf`
-- `Apache Security and Auditing.pdf`
+- [Apache Cookbook, 2nd Edition.pdf](<Apache Cookbook, 2nd Edition.pdf>)
+- [Apache Security - Ivan Ristic - Oreilly - 2005.pdf](<Apache Security - Ivan Ristic - Oreilly - 2005.pdf>)
+- [Apache Security and Auditing.pdf](<Apache Security and Auditing.pdf>)
 - [Apache Tomcat 6 — Vivek Chopra](<Apache Tomcat 6Gao Ji Bian Cheng - Vivek Chopra.pdf>)
 - [Apache Tomcat 7](<Apache Tomcat 7.pdf>)
 - [Apache Web Server](<Apache Web Server.pdf>)
@@ -121,64 +121,64 @@ This group supports delivery automation, configuration management, cloud infrast
 
 ## 4. Kafka, Elasticsearch, ELK, and Distributed Data Systems
 
-- `Apache Kafka Cookbook.pdf`
-- `Apache Kafka.pdf`
-- `Learning Apache Kafka, 2nd Edition.pdf`
-- `ElasticSearch Cookbook, 2nd Edition.pdf`
-- `Elasticsearch Blueprints.pdf`
-- `Elasticsearch Indexing.pdf`
-- `Elasticsearch Server, 2nd Edition.pdf`
-- `Elasticsearch in Action.pdf`
-- `Learning ELK Stack.pdf`
-- `Learning Redis.pdf`
-- `Learning Storm.pdf`
-- `Mastering ElasticSearch.pdf`
-- `Mule ESB Cookbook.pdf`
+- [Apache Kafka Cookbook.pdf](<Apache Kafka Cookbook.pdf>)
+- [Apache Kafka.pdf](<Apache Kafka.pdf>)
+- [Learning Apache Kafka, 2nd Edition.pdf](<Learning Apache Kafka, 2nd Edition.pdf>)
+- [ElasticSearch Cookbook, 2nd Edition.pdf](<ElasticSearch Cookbook, 2nd Edition.pdf>)
+- [Elasticsearch Blueprints.pdf](<Elasticsearch Blueprints.pdf>)
+- [Elasticsearch Indexing.pdf](<Elasticsearch Indexing.pdf>)
+- [Elasticsearch Server, 2nd Edition.pdf](<Elasticsearch Server, 2nd Edition.pdf>)
+- [Elasticsearch in Action.pdf](<Elasticsearch in Action.pdf>)
+- [Learning ELK Stack.pdf](<Learning ELK Stack.pdf>)
+- [Learning Redis.pdf](<Learning Redis.pdf>)
+- [Learning Storm.pdf](<Learning Storm.pdf>)
+- [Mastering ElasticSearch.pdf](<Mastering ElasticSearch.pdf>)
+- [Mule ESB Cookbook.pdf](<Mule ESB Cookbook.pdf>)
 
 Useful for event streaming, search, indexing, log analytics, distributed processing, message-driven systems, and data-platform operations.
 
 ## 5. Databases and Data Availability
 
-- `Creating your MySQL Database.pdf`
-- `High Availability MySQL Cookbook.pdf`
-- `MySQL Cookbook, 2nd Edition.pdf`
-- `MySQL Troubleshooting.pdf`
+- [Creating your MySQL Database.pdf](<Creating your MySQL Database.pdf>)
+- [High Availability MySQL Cookbook.pdf](<High Availability MySQL Cookbook.pdf>)
+- [MySQL Cookbook, 2nd Edition.pdf](<MySQL Cookbook, 2nd Edition.pdf>)
+- [MySQL Troubleshooting.pdf](<MySQL Troubleshooting.pdf>)
 
 Useful for database fundamentals, MySQL administration, high availability, troubleshooting, backup thinking, and production data reliability.
 
 ## 6. Monitoring and Observability
 
-- `Grafana_Loki.pdf`
-- `Hands-On Infrastructure Monitoring with Prometheus by Joel Bastos [Joel Bastos] (z-lib.org).pdf`
-- `Instant Nagios Starter PDF [gatedone.ninja].pdf`
-- `Kibana Essentials.pdf`
-- `Learning ELK Stack.pdf`
-- `Learning Nagios 4.pdf`
-- `Learning Nagios 4.txt.pdf`
-- `Monitoring with Ganglia.pdf`
-- `Nagios Core Administration Cookbook 2013.pdf`
+- [Grafana_Loki.pdf](<Grafana_Loki.pdf>)
+- [Hands-On Infrastructure Monitoring with Prometheus by Joel Bastos [Joel Bastos] (z-lib.org).pdf](<Hands-On Infrastructure Monitoring with Prometheus by Joel Bastos [Joel Bastos] (z-lib.org).pdf>)
+- [Instant Nagios Starter PDF [gatedone.ninja].pdf](<Instant Nagios Starter PDF [gatedone.ninja].pdf>)
+- [Kibana Essentials.pdf](<Kibana Essentials.pdf>)
+- [Learning ELK Stack.pdf](<Learning ELK Stack.pdf>)
+- [Learning Nagios 4.pdf](<Learning Nagios 4.pdf>)
+- [Learning Nagios 4.txt.pdf](<Learning Nagios 4.txt.pdf>)
+- [Monitoring with Ganglia.pdf](<Monitoring with Ganglia.pdf>)
+- [Nagios Core Administration Cookbook 2013.pdf](<Nagios Core Administration Cookbook 2013.pdf>)
 
 The monitoring collection covers infrastructure monitoring, Prometheus, Grafana, Loki, Nagios, Ganglia, Kibana, ELK, dashboards, and alerting.
 
 ## 7. Testing and Quality Engineering
 
-- `AngularJS Testing Cookbook.pdf`
-- `Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf`
-- `Emily H. Halili - Apache JMeter - 2008.pdf`
-- `Java For Testers.pdf`
-- `Learning Selenium Testing Tools with Python.pdf`
+- [AngularJS Testing Cookbook.pdf](<AngularJS Testing Cookbook.pdf>)
+- [Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf](<Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf>)
+- [Emily H. Halili - Apache JMeter - 2008.pdf](<Emily H. Halili - Apache JMeter - 2008.pdf>)
+- [Java For Testers.pdf](<Java For Testers.pdf>)
+- [Learning Selenium Testing Tools with Python.pdf](<Learning Selenium Testing Tools with Python.pdf>)
 
 Useful for browser automation, Java testing, Selenium, JMeter, performance testing, and quality engineering.
 
 ## 8. Security and Networking
 
-- `Apache Security - Ivan Ristic - Oreilly - 2005.pdf`
-- `Apache Security and Auditing.pdf`
-- `Hacking with Kali.pdf`
-- `Mastering Nmap Scripting Engine.pdf`
-- `Maximum Apache Security - SAMS - June 2002.pdf`
-- `Mod_Security.pdf`
-- `Netcat.Power.Tools.pdf`
+- [Apache Security - Ivan Ristic - Oreilly - 2005.pdf](<Apache Security - Ivan Ristic - Oreilly - 2005.pdf>)
+- [Apache Security and Auditing.pdf](<Apache Security and Auditing.pdf>)
+- [Hacking with Kali.pdf](<Hacking with Kali.pdf>)
+- [Mastering Nmap Scripting Engine.pdf](<Mastering Nmap Scripting Engine.pdf>)
+- [Maximum Apache Security - SAMS - June 2002.pdf](<Maximum Apache Security - SAMS - June 2002.pdf>)
+- [Mod_Security.pdf](<Mod_Security.pdf>)
+- [Netcat.Power.Tools.pdf](<Netcat.Power.Tools.pdf>)
 
 Useful for defensive security learning, network diagnostics, Nmap automation, Netcat, Apache hardening, ModSecurity, and web-server security.
 
@@ -186,13 +186,13 @@ Useful for defensive security learning, network diagnostics, Nmap automation, Ne
 
 ## 9. Programming, Version Control, Project Tools, and Technical Communication
 
-- `A Guide to Writing as an Engineer (4th Edition).pdf`
-- `JIRA 5.2 Essentials.pdf`
-- `JIRA Agile Essentials.pdf`
-- `JIRA Development Cookbook.pdf`
-- `Mastering Python Design Patterns.pdf`
-- `OpenJDK Cookbook.pdf`
-- `Oreilly_Version_Control_with_Git.pdf`
+- [A Guide to Writing as an Engineer (4th Edition).pdf](<A Guide to Writing as an Engineer (4th Edition).pdf>)
+- [JIRA 5.2 Essentials.pdf](<JIRA 5.2 Essentials.pdf>)
+- [JIRA Agile Essentials.pdf](<JIRA Agile Essentials.pdf>)
+- [JIRA Development Cookbook.pdf](<JIRA Development Cookbook.pdf>)
+- [Mastering Python Design Patterns.pdf](<Mastering Python Design Patterns.pdf>)
+- [OpenJDK Cookbook.pdf](<OpenJDK Cookbook.pdf>)
+- [Oreilly_Version_Control_with_Git.pdf](<Oreilly_Version_Control_with_Git.pdf>)
 
 Useful for engineering communication, Jira workflows, Agile delivery, Git, Python design patterns, and Java/OpenJDK operations.
 
@@ -204,74 +204,74 @@ These are filename-based candidates only. They are not confirmed byte-for-byte d
 
 ## Nagios
 
-- `Learning Nagios 4.pdf`
-- `Learning Nagios 4.txt.pdf`
+- [Learning Nagios 4.pdf](<Learning Nagios 4.pdf>)
+- [Learning Nagios 4.txt.pdf](<Learning Nagios 4.txt.pdf>)
 
 The second filename may be a converted or alternate copy of the first. Compare hashes and PDF metadata before removing either file.
 
 ## Nginx
 
-- `Nginx HTTP Server, 2nd Edition.pdf`
-- `Nginx.HTTP.Server.pdf`
+- [Nginx HTTP Server, 2nd Edition.pdf](<Nginx HTTP Server, 2nd Edition.pdf>)
+- [Nginx.HTTP.Server.pdf](<Nginx.HTTP.Server.pdf>)
 
 These may represent different editions or alternate copies.
 
 ## Unix Shell Scripting
 
-- `Mastering Unix Shell Scripting.pdf`
-- `Mastering Unix Shell Scripting, 2nd Edition.pdf`
+- [Mastering Unix Shell Scripting.pdf](<Mastering Unix Shell Scripting.pdf>)
+- [Mastering Unix Shell Scripting, 2nd Edition.pdf](<Mastering Unix Shell Scripting, 2nd Edition.pdf>)
 
 Likely separate editions of a related title.
 
 ## Linux Shell Scripting Cookbook
 
-- `1linux_shell_scripting_cookbook.pdf`
-- `Linux Shell Scripting Cookbook, 2nd Edition.pdf`
+- [1linux_shell_scripting_cookbook.pdf](<1linux_shell_scripting_cookbook.pdf>)
+- [Linux Shell Scripting Cookbook, 2nd Edition.pdf](<Linux Shell Scripting Cookbook, 2nd Edition.pdf>)
 
 Likely an earlier edition and a second edition, or related alternate files.
 
 ## Apache Web Server
 
-- `Apache Web Server.pdf`
-- `ApacheWebserver2.0.pdf`
-- `Apache-Compile-HOWTO.pdf`
-- `Apache-WebDAV-LDAP-HOWTO.pdf`
-- `III-07-08-APACHE-VIRTUALHOSTING [36].pdf`
+- [Apache Web Server.pdf](<Apache Web Server.pdf>)
+- [ApacheWebserver2.0.pdf](<ApacheWebserver2.0.pdf>)
+- [Apache-Compile-HOWTO.pdf](<Apache-Compile-HOWTO.pdf>)
+- [Apache-WebDAV-LDAP-HOWTO.pdf](<Apache-WebDAV-LDAP-HOWTO.pdf>)
+- [III-07-08-APACHE-VIRTUALHOSTING [36].pdf](<III-07-08-APACHE-VIRTUALHOSTING [36].pdf>)
 
 These may be broad references, older technical guides, or narrower Apache administration documents.
 
 ## Apache Security
 
-- `Apache Security - Ivan Ristic - Oreilly - 2005.pdf`
-- `Apache Security and Auditing.pdf`
-- `Maximum Apache Security - SAMS - June 2002.pdf`
-- `Mod_Security.pdf`
+- [Apache Security - Ivan Ristic - Oreilly - 2005.pdf](<Apache Security - Ivan Ristic - Oreilly - 2005.pdf>)
+- [Apache Security and Auditing.pdf](<Apache Security and Auditing.pdf>)
+- [Maximum Apache Security - SAMS - June 2002.pdf](<Maximum Apache Security - SAMS - June 2002.pdf>)
+- [Mod_Security.pdf](<Mod_Security.pdf>)
 
 These are related by subject but appear to be separate resources.
 
 ## Apache Kafka
 
-- `Apache Kafka.pdf`
-- `Apache Kafka Cookbook.pdf`
-- `Learning Apache Kafka, 2nd Edition.pdf`
+- [Apache Kafka.pdf](<Apache Kafka.pdf>)
+- [Apache Kafka Cookbook.pdf](<Apache Kafka Cookbook.pdf>)
+- [Learning Apache Kafka, 2nd Edition.pdf](<Learning Apache Kafka, 2nd Edition.pdf>)
 
 Related Kafka resources with different likely depth and formats.
 
 ## Elasticsearch
 
-- `ElasticSearch Cookbook, 2nd Edition.pdf`
-- `Elasticsearch Blueprints.pdf`
-- `Elasticsearch Indexing.pdf`
-- `Elasticsearch Server, 2nd Edition.pdf`
-- `Elasticsearch in Action.pdf`
-- `Mastering ElasticSearch.pdf`
+- [ElasticSearch Cookbook, 2nd Edition.pdf](<ElasticSearch Cookbook, 2nd Edition.pdf>)
+- [Elasticsearch Blueprints.pdf](<Elasticsearch Blueprints.pdf>)
+- [Elasticsearch Indexing.pdf](<Elasticsearch Indexing.pdf>)
+- [Elasticsearch Server, 2nd Edition.pdf](<Elasticsearch Server, 2nd Edition.pdf>)
+- [Elasticsearch in Action.pdf](<Elasticsearch in Action.pdf>)
+- [Mastering ElasticSearch.pdf](<Mastering ElasticSearch.pdf>)
 
 Related Elasticsearch resources covering operations, indexing, architecture, and application usage.
 
 ## JMeter
 
-- `Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf`
-- `Emily H. Halili - Apache JMeter - 2008.pdf`
+- [Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf](<Bayo Erinle - Performance Testing with Jmeter 2.9 - 2013.pdf>)
+- [Emily H. Halili - Apache JMeter - 2008.pdf](<Emily H. Halili - Apache JMeter - 2008.pdf>)
 
 Different authors and publication years indicate separate resources.
 
