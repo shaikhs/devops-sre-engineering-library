@@ -11,6 +11,15 @@ A personal technical reference library covering Linux, Unix, shell scripting, we
 
 > Filenames are used as the primary inventory source. Some files may have incomplete, inconsistent, or misleading embedded metadata. No files were modified as part of this inventory.
 
+## Kafka Interview Preparation
+
+- [Kafka Quick Guide](Kafka_Quick_Guide.md)
+- [Kafka L3 / Confluent SME Interview Notes](Kafka_L3_Confluent_SME_Interview_Notes.md)
+- [Learning Apache Kafka — Readable Text](<Learning Apache Kafka, 2nd Edition_readable.txt>)
+- [Learning Apache Kafka — Three-Page Summary](<Learning Apache Kafka, 2nd Edition_3_Page_Summary.md>)
+
+The Kafka interview notes are tailored for a senior L3/SME role supporting large-scale banking and payment workloads, including multi-DC architecture, 5,000–10,000 TPS capacity planning, replication, consumer lag, Confluent components, security, observability, DR, and incident response.
+
 ## Recommended Reading Paths
 
 ### DevOps and SRE Foundation
